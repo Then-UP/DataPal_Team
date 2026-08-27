@@ -1,0 +1,23 @@
+{
+    "name": "City Hospital",
+    "location": "123 Main St",
+    "departments": [
+        {
+            "name": "Cardiology",
+            "patients": [
+                {
+                    "name": "Zeinab Mahrous",
+                    "age": 20,
+                    "medical_record": "No allergies"
+                }
+            ],
+            "staff": [
+                {
+                    "name": "Dr. Ghada Mahrous",
+                    "age": 22,
+                    "position": "consultant"
+                }
+            ]
+        }
+    ]
+}
